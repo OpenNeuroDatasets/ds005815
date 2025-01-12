@@ -1,0 +1,41 @@
+{
+    "SamplingFrequency": 1000.0,
+    "EEGReference": "Cz",
+    "EEGGround": "Fpz",
+    "PowerLineFrequency": 50,
+    "EEGChannelCount": 30,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 0,
+    "TriggerChannelCount": 1,
+    "RecordingType": "continuous",
+    "RecordingDuration": 2044.839,
+    "Manufacturer": "Brain Products GmbH",
+    "ManufacturersModelName": "ActiChamp RS232AMP",
+    "CapManufacturer": "EasyCap",
+    "CapManufacturersModelName": "actiCAP 32Ch Standard",
+    "InstitutionName": "National Yang Ming Chiao Tung University",
+    "InstitutionAddress": "Taipei, Taiwan",
+    "InstitutionalDepartmentName": "Department of Biomedical Engineering",
+    "HardwareFilters": {
+        "Anti-aliasing filter": {
+            "Cutoff (Hz)": 1000,
+            "Roll-off": "30dB/Octave"
+        },
+        "High-pass filter": {
+            "Cutoff (Hz)": 1.0
+        },
+        "Low-pass filter": {
+            "Cutoff (Hz)": 50.0
+        }
+    },
+    "SoftwareFilters": {
+        "FIR bandpass filter": {
+            "Passband (Hz)": "1-50",
+            "Resampling rate (Hz)": 250
+        }
+    },
+    "TaskName": "visual-auditory-imagination",
+    "TaskDescription": "Participants focused on visual prompts displayed on a screen, attending to images and auditory stimuli while performing corresponding imagination tasks."
+}
