@@ -1,5 +1,5 @@
 {
-    "Name": "YOTO (You Only Think Once): An EEG Dataset for Tracking Spontaneous Cognitive Transitions and Multimodal Stimuli Responses in Resting-State and Task Phases",
+    "Name": "YOTO (You Only Think Once): A Human EEG\nDataset for Multisensory Perception and Mental\nImagery",
     "BIDSVersion": "1.10.0",
     "License": "CC0",
     "Authors": [
