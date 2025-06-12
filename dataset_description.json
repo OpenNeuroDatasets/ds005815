@@ -1,6 +1,7 @@
 {
     "Name": "YOTO (You Only Think Once): A Human EEG\nDataset for Multisensory Perception and Mental\nImagery",
     "BIDSVersion": "1.10.0",
+    "DatasetType": "raw",
     "License": "CC0",
     "Authors": [
         "Yan-Han Chang",
