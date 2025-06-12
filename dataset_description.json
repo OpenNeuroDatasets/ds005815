@@ -2,6 +2,8 @@
     "Name": "YOTO: A Human EEG\nDataset for Multisensory Perception and Mental\nImagery",
     "BIDSVersion": "1.10.0",
     "DatasetType": "raw",
+    "GeneratedBy": [], 
+    "SourceDatasets": [],
     "License": "CC0",
     "Authors": [
         "Yan-Han Chang",
