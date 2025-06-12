@@ -13,5 +13,18 @@
         "Chun-Shu Wei"
     ],
     "Acknowledgements": "This work was supported by the National Science and Technology Council (NSTC) under Contracts 109-2222-E-009-006-MY3.",
-    "DatasetDOI": "doi:10.18112/openneuro.ds005815.v1.0.3"
+    "DatasetDOI": "doi:10.18112/openneuro.ds005815.v1.0.3",
+    "GeneratedBy": [
+        {
+        "Name": "N/A",       
+        "Version": "N/A",     
+        "CodeURL": ""        
+        }
+    ],
+    "SourceDatasets": [
+        {
+        "URL": "N/A",        
+        "Version": "N/A"     
+        }
+    ]
 }
