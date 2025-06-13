@@ -1,0 +1,16 @@
+{
+    "onset": {
+        "Description": "Trial onset time from the beginning of recording, in seconds",
+        "Units": "s"
+    },
+    "duration": {
+        "Description": "Duration of the trial, in seconds",
+        "Units": "s"
+    },
+    "trial_type": {
+        "Description": "Name of the experimental procedure or event type"
+    },
+    "value": {
+        "Description": "Trigger code or event-specific value"
+    }
+}
