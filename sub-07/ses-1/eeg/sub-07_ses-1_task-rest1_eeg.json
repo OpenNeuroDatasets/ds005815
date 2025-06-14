@@ -32,7 +32,7 @@
     "Type": "hardware-based"
   }
 },
-
+  "EpochLength": "n/a",
   "SubjectArtefactDescription": "n/a",
   "EMGChannelCount": 0,
   "MISCChannelCount": 0,
