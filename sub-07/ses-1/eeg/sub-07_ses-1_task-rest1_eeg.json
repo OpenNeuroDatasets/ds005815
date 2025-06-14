@@ -14,7 +14,6 @@
   "InstitutionalDepartmentName": "CECN Lab",
   "DigitizedLandmarks": true,
   "DigitizedHeadPoints": false,
-  "SoftwareFilters": {},
   "TaskName": "rest1",
   "RecordingDuration": 122.48,
   "SamplingFrequency": 1000.0,
@@ -29,7 +28,4 @@
     "Notch": "60Hz hardware-based filter"
   },
   "SubjectArtefactDescription": "n/a"
-
-
-
 }
