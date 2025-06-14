@@ -13,5 +13,8 @@
     },
     "value": {
         "Description": "Trigger code or event-specific value"
+    },
+    "StimulusPresentation": {
+        "Description": "Stimulus were presented using E-Prime software, synchronized via parallel port."
     }
 }
