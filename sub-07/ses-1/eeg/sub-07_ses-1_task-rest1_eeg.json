@@ -37,8 +37,6 @@
   "EMGChannelCount": 0,
   "MISCChannelCount": 0,
   "TriggerChannelCount": 1,
-  "EpochLength": {},
-  "HeadCircumference": {},
   "CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_54e69c642d89b",
   "CogPOID": "https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d0aab4"
 
