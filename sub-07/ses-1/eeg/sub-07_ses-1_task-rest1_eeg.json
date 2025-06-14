@@ -15,7 +15,6 @@
   "DigitizedLandmarks": true,
   "DigitizedHeadPoints": false,
   "SoftwareFilters": {},
-  "TaskName": "rest1",
   "RecordingDuration": 122.48,
   "SamplingFrequency": 1000.0,
   "SoftwareVersions": "Curry 8 NeuroScan",
@@ -27,19 +26,16 @@
   "RecordingType": "continuous",
   "EEGPlacementScheme": "10-20",
   "HardwareFilters": {
-  "Notch": {
-    "Frequency": 60,
-    "Type": "hardware-based"
-  }
-},
-  "EpochLength": "n/a",
+    "Notch": {
+      "Frequency": 60,
+      "Type": "hardware-based"
+    }
+  },
   "SubjectArtefactDescription": "n/a",
   "EMGChannelCount": 0,
   "MISCChannelCount": 0,
   "TriggerChannelCount": 1,
   "CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_54e69c642d89b",
-  "CogPOID": "https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d0aab4"
-
-
-
+  "CogPOID": "https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d0aab4",
+  "TaskName": "rest1"
 }
