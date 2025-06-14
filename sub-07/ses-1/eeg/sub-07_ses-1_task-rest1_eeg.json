@@ -1,0 +1,12 @@
+{
+    "TaskName": "rest1",
+    "SamplingFrequency": 1000.0,
+    "PowerLineFrequency": 60,
+    "EEGReference": "A1/A2",
+    "EEGGround": "n/a",
+    "CapManufacturersModelName": "30-channel EEG cap",
+    "HardwareFilters": "n/a",
+    "EpochLength": "n/a",
+    "RecordingDuration": 87.04,
+    "n_samples": 87040
+}
