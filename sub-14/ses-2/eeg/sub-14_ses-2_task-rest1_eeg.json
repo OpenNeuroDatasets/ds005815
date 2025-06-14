@@ -1,41 +1,41 @@
 {
-    "SamplingFrequency": 500.0,
-    "EEGReference": "Cz",
-    "EEGGround": "Fpz",
-    "PowerLineFrequency": 50,
-    "EEGChannelCount": 30,
-    "EOGChannelCount": 0,
-    "ECGChannelCount": 0,
-    "EMGChannelCount": 0,
-    "MiscChannelCount": 0,
-    "TriggerChannelCount": 1,
-    "RecordingType": "continuous",
-    "RecordingDuration": 118.118,
-    "Manufacturer": "Brain Products GmbH",
-    "ManufacturersModelName": "ActiChamp RS232AMP",
-    "CapManufacturer": "EasyCap",
-    "CapManufacturersModelName": "actiCAP 32Ch Standard",
-    "InstitutionName": "National Yang Ming Chiao Tung University",
-    "InstitutionAddress": "Taipei, Taiwan",
-    "InstitutionalDepartmentName": "Department of Biomedical Engineering",
-    "HardwareFilters": {
-        "Anti-aliasing filter": {
-            "Cutoff (Hz)": 1000,
-            "Roll-off": "30dB/Octave"
-        },
-        "High-pass filter": {
-            "Cutoff (Hz)": 1.0
-        },
-        "Low-pass filter": {
-            "Cutoff (Hz)": 50.0
-        }
-    },
-    "SoftwareFilters": {
-        "FIR bandpass filter": {
-            "Passband (Hz)": "1-50",
-            "Resampling rate (Hz)": 250
-        }
-    },
-    "TaskName": "resting",
-    "TaskDescription": "Resting-state EEG data was recorded before and after the experimental tasks. Participants were instructed to stay still, remain relaxed, and keep their eyes open."
+  "EEGReference": "A1/A2",
+  "EEGGround": "AFz",
+  "EEGChannelCount": 30,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "MiscChannelCount": 0,
+  "PowerLineFrequency": 60,
+  "CapManufacturersModelName": "30-channel EEG cap",
+  "Manufacturer": "Compumedics Neuroscan",
+  "ManufacturerModelName": "SynAmps RT 64",
+  "InstitutionName": "National Yang Ming Chiao Tung University",
+  "InstitutionAddress": "1001 University Road, Hsinchu, Taiwan",
+  "InstitutionalDepartmentName": "CECN Lab",
+  "DigitizedLandmarks": true,
+  "DigitizedHeadPoints": false,
+  "SoftwareFilters": {},
+  "RecordingDuration": 122.48,
+  "SamplingFrequency": 1000.0,
+  "SoftwareVersions": "Curry 8 NeuroScan",
+  "TaskDescription": "resting-state recording.",
+  "Instructions": "For eye-closed resting, please close your eyes and press the spacebar. After approximately 30 seconds, a piano sound will play, signaling you to open your eyes. For eye-open resting, please fixate on the white cross on the screen and press the spacebar. Press the spacebar again to proceed after the resting phase ends.",
+  "ManufacturersModelName": "SynAmps RT 64",
+  "DeviceSerialNumber": "81220417",
+  "CapManufacturer": "Compumedics Neuroscan",
+  "RecordingType": "continuous",
+  "EEGPlacementScheme": "10-20",
+  "HardwareFilters": {
+    "Notch": {
+      "Frequency": 60,
+      "Type": "hardware-based"
+    }
+  },
+  "SubjectArtefactDescription": "n/a",
+  "EMGChannelCount": 0,
+  "MISCChannelCount": 0,
+  "TriggerChannelCount": 1,
+  "CogAtlasID": "https://www.cognitiveatlas.org/task/id/trm_54e69c642d89b",
+  "CogPOID": "https://www.cognitiveatlas.org/concept/id/trm_4a3fd79d0aab4",
+  "TaskName": "rest1"
 }
