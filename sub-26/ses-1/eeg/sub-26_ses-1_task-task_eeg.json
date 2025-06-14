@@ -1,0 +1,25 @@
+{
+  "TaskName": "task",
+  "SamplingFrequency": 1000,
+  "PowerLineFrequency": 60,
+  "EEGChannelCount": 30,
+  "EEGPlacementScheme": "10-20",
+  "EEGReference": "A1 and A2",
+  "EEGGround": "AFz",
+  "SoftwareVersions": "NeuroScan Scan4.3 + E-Prime 3.0",
+  "DeviceSerialNumber": "SynAmps RT 64 (Compumedics Neuroscan)",
+  "CogAtlasID": "n/a",
+  "CogPOID": "n/a",
+  "MISCChannelCount": 0,
+  "RecordingType": "continuous",
+  "Instructions": "Each trial begins with a 2-second auditory or visual stimulus. After the stimulus, you will have 4 seconds to vividly imagine what you just perceived. Then, report the vividness of your mental imagery on a scale from 1 (not vivid at all) to 5 (very vivid). Press the spacebar to begin when you are ready. Vividness rating: Please input a number from 1 to 5.",
+  "RecordingDuration": 0,
+  "TaskDescription": "missing resting2",
+  "SubjectArtefactDescription": "Participants were instructed to minimize movements and eye blinks. Behavior was monitored during the session.",
+  "SoftwareFilters": {
+    "Notch": {
+      "Type": "IIR",
+      "Frequency": 60
+    }
+  }
+}
