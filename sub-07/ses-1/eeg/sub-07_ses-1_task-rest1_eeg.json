@@ -25,7 +25,9 @@
   "CapManufacturer": "Compumedics Neuroscan",
   "RecordingType": "continuous",
   "EEGPlacementScheme": "10-20",
-  "HardwareFilters": "60Hz notch filter implemented in hardware",
+  "HardwareFilters": {
+    "Notch": "60Hz hardware-based filter"
+  },
   "SubjectArtefactDescription": "n/a"
 
 
