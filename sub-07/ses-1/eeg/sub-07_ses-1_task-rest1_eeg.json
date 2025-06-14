@@ -14,6 +14,7 @@
   "InstitutionalDepartmentName": "CECN Lab",
   "DigitizedLandmarks": true,
   "DigitizedHeadPoints": false,
+  "SoftwareFilters": {},
   "TaskName": "rest1",
   "RecordingDuration": 122.48,
   "SamplingFrequency": 1000.0,
@@ -25,7 +26,14 @@
   "RecordingType": "continuous",
   "EEGPlacementScheme": "10-20",
   "HardwareFilters": {
-    "Notch": "60Hz hardware-based filter"
-  },
+  "Notch": {
+    "Frequency": 60,
+    "Type": "hardware-based"
+  }
+},
+
   "SubjectArtefactDescription": "n/a"
+
+
+
 }
