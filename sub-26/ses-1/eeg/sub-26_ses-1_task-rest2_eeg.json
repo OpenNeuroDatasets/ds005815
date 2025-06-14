@@ -1,5 +1,5 @@
 {
-  "TaskName": "task",
+  "TaskName": "rest2",
   "SamplingFrequency": 1000,
   "PowerLineFrequency": 60,
   "EEGChannelCount": 30,
@@ -12,8 +12,6 @@
   "CogPOID": "n/a",
   "MISCChannelCount": 0,
   "RecordingType": "continuous",
-  "Instructions": "Each trial begins with a 2-second auditory or visual stimulus. After the stimulus, you will have 4 seconds to vividly imagine what you just perceived. Then, report the vividness of your mental imagery on a scale from 1 (not vivid at all) to 5 (very vivid). Press the spacebar to begin when you are ready. Vividness rating: Please input a number from 1 to 5.",
-  "RecordingDuration": 0,
-  "TaskDescription": "missing resting2",
+  "Instructions": "For eye-closed resting, please close your eyes and press the spacebar. After approximately 30 seconds, a piano sound will play, signaling you to open your eyes. For eye-open resting, please fixate on the white cross on the screen and press the spacebar. Press the spacebar again to proceed after the resting phase ends.",
   "SubjectArtefactDescription": "Participants were instructed to minimize movements and eye blinks. Behavior was monitored during the session."
 }
