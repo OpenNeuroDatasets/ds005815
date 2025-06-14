@@ -1,13 +1,10 @@
 {
-  "TaskName": "rest1",
-  "RecordingDuration": 120.0,
   "EEGReference": "A1/A2",
   "EEGGround": "AFz",
   "EEGChannelCount": 30,
   "EOGChannelCount": 0,
   "ECGChannelCount": 0,
   "MiscChannelCount": 0,
-  "SamplingFrequency": 1000,
   "PowerLineFrequency": 60,
   "CapManufacturersModelName": "30-channel EEG cap",
   "Manufacturer": "Compumedics Neuroscan",
@@ -17,5 +14,8 @@
   "InstitutionalDepartmentName": "CECN Lab",
   "DigitizedLandmarks": true,
   "DigitizedHeadPoints": false,
-  "SoftwareFilters": "n/a"
+  "SoftwareFilters": "n/a",
+  "TaskName": "rest1",
+  "RecordingDuration": 122.48,
+  "SamplingFrequency": 1000.0
 }
