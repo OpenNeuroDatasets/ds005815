@@ -17,5 +17,19 @@
   "SoftwareFilters": {},
   "TaskName": "rest1",
   "RecordingDuration": 122.48,
-  "SamplingFrequency": 1000.0
+  "SamplingFrequency": 1000.0,
+  "SoftwareVersions": "Curry 8 NeuroScan",
+  "TaskDescription": "resting-state recording.",
+  "Instructions": "For eye-closed resting, please close your eyes and press the spacebar. After approximately 30 seconds, a piano sound will play, signaling you to open your eyes. For eye-open resting, please fixate on the white cross on the screen and press the spacebar. Press the spacebar again to proceed after the resting phase ends.",
+  "DeviceSerialNumber": "81220417",
+  "CapManufacturer": "Compumedics Neuroscan",
+  "RecordingType": "continuous",
+  "EEGPlacementScheme": "10-20",
+  "HardwareFilters": {
+    "Notch": "60Hz hardware-based filter"
+  },
+  "SubjectArtefactDescription": "n/a"
+
+
+
 }
