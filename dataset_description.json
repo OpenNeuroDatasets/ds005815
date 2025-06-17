@@ -1,5 +1,5 @@
 {
-    "Name": "YOTO: A Human EEG\nDataset for Multisensory Perception and Mental\nImagery",
+    "Name": "A Human EEG\nDataset for Multisensory Perception and Mental\nImagery",
     "BIDSVersion": "1.10.0",
     "DatasetType": "raw",
     "License": "CC0",
