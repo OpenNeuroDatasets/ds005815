@@ -1,6 +1,0 @@
-onset	duration	trial_type	value
-12.492	0.0	StartInstruction	1
-18.692	0.0	Eyeclosed	2
-49.693	3.111	FixationBreak	3
-53.11	0.0	EyeOpen	4
-83.127	2.189	EndInstruction	5
